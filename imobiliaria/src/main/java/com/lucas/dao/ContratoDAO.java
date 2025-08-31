@@ -1,7 +1,7 @@
-package com.diogo.dao;
+package com.lucas.dao;
 
-import com.diogo.model.Contrato;
-import com.diogo.util.ConnectionFactory;
+import com.lucas.model.Contrato;
+import com.lucas.util.ConnectionFactory;
 
 import java.sql.*;
 import java.time.LocalDate;
