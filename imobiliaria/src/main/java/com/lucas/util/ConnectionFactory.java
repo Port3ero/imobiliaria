@@ -1,4 +1,4 @@
-package com.diogo.util;
+package com.lucas.util;
 
 import java.io.InputStream;
 import java.sql.Connection;
