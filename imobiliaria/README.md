@@ -53,9 +53,9 @@ CREATE TABLE contrato (
 Inserção de Registros
 ````sql
 INSERT INTO cliente (nome, cpf, telefone, email) VALUES
-('Diogo Jacob', '12345678901', '47999990001', 'diogo@gmail.com'),
-('Gabriel Beserra', '98765432100', '47999990002', 'gael@gmail.com'),
-('Felipe Nocce', '55522277788', '47999990003', 'lipe@gmail.com');
+('Lucas Costa', '12345678901', '47999990001', 'lucas@gmail.com'),
+('Jalison Santos', '98765432100', '47999990002', 'jali@gmail.com'),
+('Victor Hugo', '55522277788', '47999990003', 'vitinho@gmail.com');
 
 INSERT INTO imovel (tipo, endereco, cidade, estado, cep, quartos, banheiros, area_m2, valor_aluguel_sugerido, status) VALUES
 ('Apartamento', 'Rua A, 100', 'Joinville', 'SC', '89200000', 2, 1, 60.0, 2000.00, 'DISPONIVEL'),
