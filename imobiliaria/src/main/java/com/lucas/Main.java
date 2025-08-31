@@ -1,11 +1,11 @@
-package com.diogo;
+package com.lucas;
 
-import com.diogo.dao.ClienteDAO;
-import com.diogo.dao.ImovelDAO;
-import com.diogo.dao.ContratoDAO;
-import com.diogo.model.Cliente;
-import com.diogo.model.Imovel;
-import com.diogo.model.Contrato;
+import com.lucas.dao.ClienteDAO;
+import com.lucas.dao.ImovelDAO;
+import com.lucas.dao.ContratoDAO;
+import com.lucas.model.Cliente;
+import com.lucas.model.Imovel;
+import com.lucas.model.Contrato;
 
 import java.util.List;
 import java.util.Scanner;
