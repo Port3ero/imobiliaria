@@ -1,4 +1,4 @@
-package com.diogo.model;
+package com.lucas.model;
 
 public class Imovel {
     private int idImovel;
